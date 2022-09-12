@@ -1,4 +1,7 @@
-package oop.pak1;
+package pak01_oop.pak1;
+
+
+//https://github.com/markusszyska/Siemens_09_2022
 
 public class App {
 	public static void main(String[] args) {

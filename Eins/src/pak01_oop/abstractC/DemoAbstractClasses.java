@@ -1,4 +1,4 @@
-package oop.abstractC;
+package pak01_oop.abstractC;
 
 public class DemoAbstractClasses {
 	public static void main(String[] args) {

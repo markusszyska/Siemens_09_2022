@@ -1,4 +1,4 @@
-package oop;
+package pak01_oop;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

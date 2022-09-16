@@ -10,3 +10,4 @@ public class SpringSecurityForARestApiApplication {
         SpringApplication.run(SpringSecurityForARestApiApplication.class, args);
     }
 }
+ 
